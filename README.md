@@ -30,8 +30,7 @@ The official website for Quipper is http://www.mathstat.dal.ca/~selinger/quipper
 install Quipper(Win, Mac, Linux). Note that during the process of installation, you may probably encounter an "annoying"
 problem, which is called "cabal hell". One solution for it can be found at
 https://github.com/serras/emacs-haskell-tutorial/blob/master/tutorial.md. By the way, I used Emacs to edit, and command line
-to compile and run programs, because majority of people used Emacs for haskell development, and the above link gives a 
-detailed instruction to set up Emacs.
+to compile and run programs. You may want to use IDE for development, which is also fine.
 
 For those who had no experience programming in any functional language before, wikibook "Learn you a haskell for great good"
 is a good start point. English Version can be found at http://learnyouahaskell.com/chapters, and Chinese version at 
