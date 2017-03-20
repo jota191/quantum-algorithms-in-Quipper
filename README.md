@@ -16,7 +16,9 @@ Quantum programming is fundamentally different from classical programming. It's 
 what to do, rather treat the computer like nature. We prepare initial states, apply gates to it(evolve it), and finally
 measure it to get the results. Sounds more like simulating nature in the (quantum) computer, aha? You may want to read some
 other comments from American Scientist and New Scientist.
+
 American Scientist: http://www.americanscientist.org/issues/pub/2014/1/programming-your-quantum-computer
+
 New Scientist: https://www.newscientist.com/article/dn23820-new-language-helps-quantum-coders-build-killer-apps#.UdbSHOEQ60z
 
 Quipper is hosted in Haskell, which is a functional language that is very different from imperative languages(C, C++, Java,
