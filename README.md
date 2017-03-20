@@ -1,6 +1,6 @@
 # quantum-programming-in-Quipper
 
-This reprository contains some quantum programs in Quipper. 
+This repository contains some quantum programs in Quipper. 
 Specifically, it contains 
 1. hello_quantum_world.hs 
 2. entanglement.hs
