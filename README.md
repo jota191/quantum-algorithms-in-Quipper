@@ -22,7 +22,7 @@ American Scientist: http://www.americanscientist.org/issues/pub/2014/1/programmi
 New Scientist: https://www.newscientist.com/article/dn23820-new-language-helps-quantum-coders-build-killer-apps#.UdbSHOEQ60z
 
 Quipper is hosted in Haskell, which is a functional language that is very different from imperative languages(C, C++, Java,
-Fortran). A large part of functional lanuage is expressions and functions, and no commands like in the imperative languages.
+Python, Fortran). A large part of functional lanuage is expressions and functions, and no commands like in the imperative languages.
 If you have worked in imperative language a long time, it may be a little more difficult for you to shift your mind.(I go
 through this too.) :)
 
