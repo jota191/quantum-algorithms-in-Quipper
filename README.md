@@ -38,4 +38,4 @@ http://www.code123.cc/docs/haskell-notes/index.html.
 
 Have fun in the world of quantum programming! :)
 
-qWalker
+Jinlong
